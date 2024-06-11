@@ -1,7 +1,7 @@
 # Java-Project
 **Student Management System**
 **Overview**
-This Student Management System is a simple web application that allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. The system uses JDBC to interact with a MySQL database managed by PHPMyAdmin for data storage.
+This Student Management System is a simple web application that allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. The system uses JDBC to interact with a MySQL database managed by PHPMyAdmin for data storage
 
 **Features**
 Add Student: Add new student records with details such as id(primary Key) Name, Age and Course.
