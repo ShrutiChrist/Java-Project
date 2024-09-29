@@ -1,5 +1,5 @@
-# Java-Project
-**Student Management System**
+# Student Management System -JAVA Project
+
 **Overview**
 This Student Management System is a simple web application that allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. The system uses JDBC to interact with a MySQL database managed by PHPMyAdmin for data storage
 
